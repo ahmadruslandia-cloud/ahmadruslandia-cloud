@@ -16,7 +16,7 @@
 
 🌱 I’m currently learning **Multi-Platform App**
 
-💬 Ask me about **Flutter, React or anything [here](https://github.com/ahmad-ruslandia/ahmad-ruslandia/issues)**
+💬 Ask me about **Flutter or anything [here](https://github.com/ahmad-ruslandia/ahmad-ruslandia/issues)**
 
 <br/>
 
