@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<h3 align="center">A passionate Web & Mobile Developer from Indonesia</h3>
+<h3 align="center">A passionate Full Stack Software from Indonesia</h3>
 
 <br/>
 
