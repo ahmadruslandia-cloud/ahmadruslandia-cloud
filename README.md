@@ -89,7 +89,7 @@
         <td align="center" width="100">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <a href="#ahmadruslandia-cloud">
-            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919092/Tools-Freamwork-Language/pmp30diti8rdqzxh8x55.png" width="40" height="40" alt="Bootstrap" />
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1744037784/sdostcpaadqdcgqd8via.png" width="40" height="40" alt="Bootstrap" />
           </a>
           <br>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
