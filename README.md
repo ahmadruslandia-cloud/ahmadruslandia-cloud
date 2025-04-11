@@ -10,13 +10,13 @@
 
 <div align="center">
 
-<h3 align="center">A passionate Full Stack Software Developer from Indonesia</h3>
+<h3 align="center">A passionate Full Stack Software Developer, Now transitioning to IT Role</h3>
 
 <br/>
 
-🌱 I’m currently learning **Multi-Platform App**
+🌱 I’m currently learning **Information Technology**
 
-💬 Ask me about **Flutter or anything [here](https://github.com/ahmadruslandia-cloud/ahmadruslandia-cloud/issues)**
+💬 Ask me about **Technology or Develop with any Framework [here](https://github.com/ahmadruslandia-cloud/ahmadruslandia-cloud/issues)**
 
 <br/>
 
