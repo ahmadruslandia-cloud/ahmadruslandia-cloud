@@ -155,9 +155,9 @@
     </table>
 
 
-<h1 align="center">Developer Tech</h1>
+<h1 align="center">IT Tech</h1>
 <div align="center">
-    <h3 align="center">⚒️ Tools-Framework-Database ⚒️</h3>
+    <h3 align="center">⚒️ Brand ⚒️</h3>
     <br/>
     <table align="center">
       <tr>
