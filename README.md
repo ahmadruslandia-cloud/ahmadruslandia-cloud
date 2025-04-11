@@ -154,6 +154,63 @@
       </tr>
     </table>
 
+
+<h1 align="center">Developer Tech</h1>
+<div align="center">
+    <h3 align="center">⚒️ Tools-Framework-Database ⚒️</h3>
+    <br/>
+    <table align="center">
+      <tr>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud">
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919230/Tools-Freamwork-Language/behhdr8magpksb7uhxrp.png" width="40" height="40" alt="Git" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud">
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919246/Tools-Freamwork-Language/dxq0ksjgutbgxgyhfhgj.png" width="40" height="40" alt="VSc" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud">
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919276/Tools-Freamwork-Language/ysjxz0cclbeqkjsjig8w.png" width="40" height="40" alt="VS" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud">
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919303/Tools-Freamwork-Language/nwu5ho1dly0ltakffmrt.png" width="40" height="40" alt="Dotnet" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud">
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919134/Tools-Freamwork-Language/dhsj90lirnbpuisgu5ic.png" width="40" height="40" alt="Flutter" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud" >
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919215/Tools-Freamwork-Language/pwejt6e80etmywpat7rq.png" width="40" height="40" alt="Laravel" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+      </tr>
+    </table>
 <br/>
 
 <hr/>
