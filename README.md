@@ -15,7 +15,7 @@
 
 <br/>
 
-🌱 I’m currently learning **Information Technology**
+🌱 I’m currently learning **Information Technology (IT)**
 
 💬 Ask me about **Technology or Develop with any Framework [here](https://github.com/ahmadruslandia-cloud/ahmadruslandia-cloud/issues)**
 
@@ -25,7 +25,7 @@
 
 </div>
  
-<h1 align="center">Favorite Tech</h1>
+<h1 align="center">Developer Tech</h1>
 <div align="center">
     <h3 align="center">⚒️ Tools-Framework-Database ⚒️</h3>
     <br/>
