@@ -58,14 +58,6 @@
         <td align="center" width="100">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <a href="#ahmadruslandia-cloud">
-            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919325/Tools-Freamwork-Language/gfm7xqa5nib7fzjoidke.png" width="40" height="40" alt="MAUI" />
-          </a>
-          <br>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        </td>
-        <td align="center" width="100">
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="#ahmadruslandia-cloud">
             <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919303/Tools-Freamwork-Language/nwu5ho1dly0ltakffmrt.png" width="40" height="40" alt="Dotnet" />
           </a>
           <br>
@@ -136,14 +128,6 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </td>
         <td align="center" width="100">
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="#ahmadruslandia-cloud">
-            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707970524/Tools-Freamwork-Language/xsp7iqkhiwunkgx11lsb.png" width="40" height="40" alt="Blazor" />
-          </a>
-          <br>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        </td>
-                  <td align="center" width="100">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <a href="#ahmadruslandia-cloud">
             <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919186/Tools-Freamwork-Language/vwy8zwm6dqelaq3i1mcp.png" width="40" height="40" alt="MySQL" />
