@@ -26,7 +26,7 @@
  
 <h1 align="center">Favorite Tech</h1>
 <div align="center">
-    <h3 align="center">⚒️ Tools-Framework-Database ⚒️</h3>
+    <h3 align="center">⚒️ Tools ⚒️</h3>
     <br/>
     <table align="center">
       <tr>
