@@ -88,7 +88,68 @@
         </td>
       </tr>
     </table>
-
+    <h3 align="center">⚒️ Tools ⚒️</h3>
+    <br/>
+    <table align="center">
+      <tr>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud">
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919230/Tools/ahmadruslandiatools1.png" width="40" height="40" alt="Git" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud">
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919230/Tools/ahmadruslandiatools2.png" width="40" height="40" alt="VSc" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud">
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919230/Tools/ahmadruslandiatools3.png" width="40" height="40" alt="VS" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud">
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919230/Tools/ahmadruslandiatools4.png" width="40" height="40" alt="Terminal" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud">
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1744440343/Tools/ahmadruslandiatools5.png" width="40" height="40" alt="Putty" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud">
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919230/Tools/ahmadruslandiatools6.png" width="40" height="40" alt="Cisco Packet Tracer" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud">
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1707919230/Tools/ahmadruslandiatool.png" width="40" height="40" alt="Winbox" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+      </tr>
+    </table>
 
 <br/>
 
