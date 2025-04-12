@@ -54,6 +54,38 @@
           <br>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </td>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud">
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1744438519/Tools-Freamwork-Language/sdostcpaadqdcgqd8vig.png" width="40" height="40" alt="Terminal" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud">
+                <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1744438520/Tools-Freamwork-Language/sdostcpaadqdcgqd8vil.png" width="40" height="40" alt="Windbox" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud">
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1744438520/Tools-Freamwork-Language/sdostcpaadqdcgqd8vik.png" width="40" height="40" alt="Cisco Packet Tracer" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
+        <td align="center" width="100">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <a href="#ahmadruslandia-cloud">
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1744438519/Tools-Freamwork-Language/sdostcpaadqdcgqd8vid.png" width="40" height="40" alt="Putty" />
+          </a>
+          <br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </td>
       </tr>
     </table>
 
