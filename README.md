@@ -65,7 +65,7 @@
         <td align="center" width="100">
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <a href="#ahmadruslandia-cloud">
-            <img src="=https://res.cloudinary.com/ddam8j6bz/image/upload/v1744440343/Tools/ahmadruslandiatools5.png" width="40" height="40" alt="Putty" />
+            <img src="https://res.cloudinary.com/ddam8j6bz/image/upload/v1744440343/Tools/ahmadruslandiatools5.png" width="40" height="40" alt="Putty" />
           </a>
           <br>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
