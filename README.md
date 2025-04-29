@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<h3 align="center">A passionate Full Stack Software Developer, Now transitioning into IT</h3>
+<h3 align="center">A passionate Full Stack Developer, Now transitioning into IT</h3>
 
 <br/>
 
